@@ -1,9 +1,5 @@
 from selenium import webdriver
-#from selenium.webdriver.support.ui import WebDriverWait
-#from selenium.webdriver.support import expected_conditions as EC
-#from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-#from selenium.webdriver.support.ui import Select
 import pandas as pd
 
 PATH = "C:\Program Files (x86)\chromedriver.exe"
