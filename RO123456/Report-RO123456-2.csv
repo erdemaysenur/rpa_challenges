@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+872715,"IT Support",139830,27966,167796,USD,2017-02-15
+535415,"IT Support",93201,18640.2,111841,RON,2017-02-22
+397476,"Waste management services",173811,34762.2,208573,RON,2017-02-01
+727981,"Concierge Services",297389,59477.8,356867,EUR,2017-02-27
+927162,"Waste management services",76823,15364.6,92187.6,RON,2017-02-06

@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+800356,"Beverages and Catering",257534,51506.8,309041,USD,2017-12-13
+114389,"Various paper supplies",217477,43495.4,260972,CAD,2017-12-12
+960408,"Various paper supplies",200599,40119.8,240719,RON,2017-12-21
+884711,"IT Support",103504,20700.8,124205,USD,2017-12-05
